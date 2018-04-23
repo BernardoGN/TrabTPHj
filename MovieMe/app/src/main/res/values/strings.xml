@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="app_name">MovieMe</string>
+
+    <!--    AddFilme Activity -->
+
+    <string name="addFilme_nome">Nome do filme</string>
+    <string name="addFilme_genero">Gênero</string>
+    <string name="addFilme_diretor">Diretor</string>
+    <string name="addFilme_ano">Ano</string>
+    <string name="addFilme_faixa">Classificação Indicativa:</string>
+    <string name="addFilme_btnAdd">Adicionar</string>
+
+    <!-- Classificações indicativas -->
+
+    <string name="classLivre">L</string>
+    <string name="classDez">10</string>
+    <string name="classDoze">12</string>
+    <string name="classCatorze">14</string>
+    <string name="classDezesseis">16</string>
+    <string name="classDezoito">18</string>
+
+    <!-- Dialogs ao excluir filme -->
+
+    <string name="dialogTitle">Aviso!</string>
+    <string name="dialogMessage">Tem certeza que deseja excluir esse filme?</string>
+    <string name="dialogPositive">Sim</string>
+    <string name="dialogNegative">Cancelar</string>
+    <string name="toastFilmeRemovido">Filme removido com sucesso</string>
+
+    <!-- Toasts AddFilme Activity -->
+
+    <string name="toastNomeObrigatorio">Nome do filme é obrigatório</string>
+    <string name="toastGeneroObrigatorio">Gênero do filme é obrigatório</string>
+    <string name="toastAnoObrigatorio">Ano de lançamento do filme é obrigatório</string>
+    <string name="toastFaixaObrigatoria">Classificação indicativa do filme é obrigatória</string>
+
+    <!-- ListagemActivity -->
+    <string name="listagemBtnShare">Compartilhar</string>
+
+    <!-- Action Bar -->
+    <string name="actionShare">Compartilhar</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+</resources>

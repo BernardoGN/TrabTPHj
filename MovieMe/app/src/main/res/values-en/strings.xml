@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">MovieMe</string>
+
+    <!--    AddFilme Activity -->
+
+    <string name="addFilme_nome">Movie Name</string>
+    <string name="addFilme_genero">Genre</string>
+    <string name="addFilme_diretor">Director</string>
+    <string name="addFilme_ano">Year</string>
+    <string name="addFilme_faixa">Age Rating:</string>
+    <string name="addFilme_btnAdd">Add</string>
+
+    <!-- Classificações indicativas -->
+
+    <string name="classLivre">L</string>
+    <string name="classDez">10</string>
+    <string name="classDoze">12</string>
+    <string name="classCatorze">14</string>
+    <string name="classDezesseis">16</string>
+    <string name="classDezoito">18</string>
+
+    <!-- Dialogs ao excluir filme -->
+
+    <string name="dialogTitle">Alert!</string>
+    <string name="dialogMessage">Are you sure you want to remove this movie?</string>
+    <string name="dialogPositive">Yes</string>
+    <string name="dialogNegative">Cancel</string>
+    <string name="toastFilmeRemovido">Movie successfully removed</string>
+
+    <!-- Toasts AddFilme Activity -->
+
+    <string name="toastNomeObrigatorio">Movie`s name is required</string>
+    <string name="toastGeneroObrigatorio">Movie`s genre is required</string>
+    <string name="toastAnoObrigatorio">Movie`s release year is required</string>
+    <string name="toastFaixaObrigatoria">Movie`s age rating is required</string>
+
+    <!-- ListagemActivity -->
+    <string name="listagemBtnShare">Compartilhar</string>
+
+    <!-- Action Bar -->
+    <string name="actionShare">Share</string>
+
+</resources>
